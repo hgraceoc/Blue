@@ -1,0 +1,71 @@
+
+body {
+    color: var(--cream);
+    font-family:'Cooper,Georgia,Times,Times New Roman,serif';
+}    
+
+.altFont {
+    font-family:'Ovo', Serif;
+    font-size: 1.5rem;
+}
+       
+h1 {
+    font-family:'Playfair Display', Serif;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 1rem;
+}
+
+.h1--brownOrange {
+    color: var(--brownOrange);
+}
+
+.h1--cream {
+    color: var(--cream);
+}
+
+p {
+    font-family: 'Quattrocento Sans', Sans-Serif;;
+    line-height: 1.4;
+    font-size: 1.5rem;
+}
+
+li a {
+    font-family: 'Quattrocento Sans', Sans-Serif;;
+    text-decoration:none;
+    color: var(--cream);
+}
+
+.footer__links li a {
+    color: var(--brownOrange2);
+}
+
+.highlight {
+    color: var(--brownOrange2);
+}
+
+.darkHighlight {
+    color: var(--brownOrange2);
+}
+
+.sunrise__h1 {
+    padding-top: 2rem;
+    margin: 1rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.sunrise__h2 {
+    margin: 2rem;
+}
+
+/* Page 2*/
+.page2font {
+    color: var(--pink);
+}
